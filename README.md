@@ -1,2 +1,7 @@
-# git-first-exercise
-First exercise for Scripting and Automation.
+# My First Git Repository
+
+This is ~~my first~~ a Git and GitHub exercise.
+
+## Student
+
+Selene Nijst
